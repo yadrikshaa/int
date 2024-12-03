@@ -1,3 +1,7 @@
 sdh
+<<<<<<< HEAD
 hjdshjds
 gdshgfs
+=======
+hjdshjdss
+>>>>>>> 8de2bc7 (second)
